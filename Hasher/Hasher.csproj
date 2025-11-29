@@ -15,6 +15,7 @@
     <PackageIcon>hasher.png</PackageIcon>
     <RepositoryUrl>https://github.com/dengaertig/Hasher.KenKoV1</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/dengaertig/Hasher.KenKoV1</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
